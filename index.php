@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 <body>
-<h1><a href="index.html">Secondhandblumen Petersen</a></h1>
+<h1><a href="index.php?page=home">Secondhandblumen Petersen</a></h1>
 
 <div id="wrapper">
     <div id="container">
